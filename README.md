@@ -1,6 +1,15 @@
 ### Hi there 👋
 
+**🌱** I’m currently learning data engineering
 
+I am interested in data engineering and machine learning.
+
+
+**💬 One of the students** 
+K-Digital Training Data Science / Engineering 
+
+
+**Github Stats**
 [![Yenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh-yenny-choi)](https://github.com/anuraghazra/github-readme-stats)
 
 
