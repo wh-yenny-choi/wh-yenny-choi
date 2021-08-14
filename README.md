@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-**🌱 I’m currently learning data engineering**
+**🌱 **
+I’m currently learning data engineering
 
 \
 \
