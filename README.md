@@ -1,11 +1,6 @@
 ### Hi there
 
-I was
-**💬 One of the students** 
-\
-K-Digital Training Data Science / Engineering 
-\
-\
+
 \
 \
 \
